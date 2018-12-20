@@ -1,0 +1,141 @@
+LOCUS       NC_006581               1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  atp6 Upstream sequence.
+ACCESSION   NC_006581
+VERSION     NC_006581.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 aatgaagaaa gcatctcaat tggagaaaag tttgttttcc cggggaattt gcttgtcaac
+       61 gaaattccac tcataagtag gttcacatcg tgatctaagt tccatttccc atcgagaggt
+      121 tatgatactg gtaaagagtc ctattcttct ccttgggtta tgaaagaatt caatagctcc
+      181 gggctccctc actgcattcc aaggcaagct cctactagat cctactattc ctgatattcc
+      241 tactggattt gagcaactcg agtatgaaca ctgtatcgct atgcccctcg cttagccccg
+      301 ctctttggtt taggatggat ccggactgga agcgaaaata ccgtaaaaat ggcttctttc
+      361 tttgtctccg ctggactctt ttgtaatagc ttgatgagct gaaccaacaa gagatattac
+      421 gttctacctt ctgcttcgag cccggccgag agtgagcttc ccgatagtct cttccttcct
+      481 agaaatagaa ctctaactat cccgtctcct tactcgagat atctgagata gctccgtaaa
+      541 ctaataactt ataatagacg agcccattat ccttatgttc tgaacttgct tcttggtaca
+      601 aggggagggg cgaagaattc tagttctagt tcttcttctg cctaatcttt agtaccgctt
+      661 tgagatttaa tctttagaac catgtgccta agagggcgag gacctttata gccataattc
+      721 ttcccccggt tctacctcct tctgcaatag tgatctatcc cgtcaatccc acccgcgagc
+      781 tatccattct aacctgtctt tgcctagcaa gatacgtcta gttctccctc cgcttgccta
+      841 tctcagtagg aaattggaac agtctccgat ttcaaagaaa aagctgaggc gagagctata
+      901 ccttctggaa ccggagcaat aactgctata aagtaaggag atgcgcagga acgatcccta
+      961 aagcaaatac tcggaatgct ccacgactaa gtatacccat
+//
+LOCUS       NC_006581               1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cob Upstream sequence.
+ACCESSION   NC_006581
+VERSION     NC_006581.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gaaggtaact agccaattcc ccaaggtcta gtaaactaag gtggtagtgc agacaaggtt
+       61 aattcactct gggattggta gtcccgtctg ctctgacgtc ggaataatca ttataatacg
+      121 atgatagcac ctgattagca agaaattccc tgctctcctc ttagcaatga tctgtctagg
+      181 gctactttca aaacagcgga ttctgtaata agaccctatt catgggcatt ctccgactta
+      241 gaatcgaatt catacccggc aatctacgat ctacccagcg ccttagttta tgttgaatag
+      301 gcatacccga cttccagcta attgtcaaat aaagctatcc gtgctttaat tcctagcttg
+      361 aaagcattct ttgaagcaaa aattccggta aatcaagcct gcgtagaata cttgactttt
+      421 ccatgtgcaa gaccacaaaa agtattcccc cctaaagctc agctctgcga aggcctttcg
+      481 gagattgacc tttctttctc ttcttcccgg tctgatcggt cgagctctcg taatcgatcg
+      541 ctcatatgtc catttcgttc tggctagcgc tcatctccag ctctgtttcc aacctttcat
+      601 ttaatatatc attcccgtat gcaatacctc ttatttaatc ttgctatacg tccaagcctt
+      661 ctcccatcgg tagttggaag cagaactgaa actggatata actgaaggaa aggctatata
+      721 ggtacgatag gagggtacgg ttaagcaggt aagcgaaggc tctctctctc gctctgtggt
+      781 cttgtgtaaa gcctttccgc ctatctatta ttttttttat ctttataata agtaagcaga
+      841 tcgaaagcac gaaaaggaat gtcttagcgt gcccttactc taattcgaaa tccgtctctt
+      901 tctttctatt ctaattcctc tcccttcatt cctcgatccg cttgtaaatt cttggtgtaa
+      961 tactcactcg taaatgattg gtgtcagaat ttctcactaa
+//
+LOCUS       NC_006581               1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  atp9 Upstream sequence.
+ACCESSION   NC_006581
+VERSION     NC_006581.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            complement(172..522)
+                     /gene="rps13"
+                     /locus_tag="NitaMp059"
+                     /db_xref="GeneID:3205230"
+     CDS             complement(172..522)
+                     /gene="rps13"
+                     /locus_tag="NitaMp059"
+                     /codon_start=1
+                     /product="ribosomal protein S13"
+                     /protein_id="YP_173403.1"
+                     /db_xref="GeneID:3205230"
+                     /translation="MLYISGARLVGDEQVRIASTKIDGIGPKKAIQVRYRLGISGNIKI
+                     KELTKYQIDQIEQMIGQDHVVHWELKRGERADIERLISISCYRGIRHQDGSPLRGQRTH
+                     TNARTCRKLIRK"
+ORIGIN
+        1 tccgaaaaga aaacagagac agaacggaat cactttgttt cagtgacata tctaatcaga
+       61 ctgaatagga tttgaagagc tgtcacgatc attcacaaaa atttcagtga actattgaag
+      121 ctatcagtgt gattgatcag acaagtacca agggctttcg gtagacttct ttcatttccg
+      181 aattagcttg cgacaagtcc tagcattagt atgagttcgt tgaccgcgta agggcgatcc
+      241 atcttgatga cgaattccac gataacaaga aatcgaaatt aatcgttcga tgtctgctcg
+      301 ttctcccctc ttcaattccc aatgaacaac atgatcttga cctatcattt gttcaatttg
+      361 gtcgatttga tacttagtta attcttttat ctttatgttt ccactgatac ctaatcgata
+      421 acgaacctga atggcttttt taggtccaat tccatcaatt ttggttgagg caattcttac
+      481 ttgttcatcg ccaactaatc tagctcctga aatatataac attcttgatt gattgagaca
+      541 aaacgattcc ctcaatacag cttaactccg tcaagcctgt acgagtagtg aagaagtata
+      601 gagcactttg gttggttgtt gaccaacgga aagcatggga gaaaaaaaga tggacaaacg
+      661 aaaaagggct aaaaaaaaaa ggacgaagta atttcgtata taaagatatg ggtttccggg
+      721 tttagatcga aattacatcc cccaaaacct atactcattc ctgtttcact tgtgcgttta
+      781 caacatccat tgcttctgac tatgtcgatg aaatgggacc gcgaagacaa cccaccacta
+      841 gagcttgctt tgctctcgct ccgctcgctc ccacctgtct tcttcccact atagtgaaag
+      901 atctttcact tcaccatagc aggaacctcg ctaaccttct cggccagtta gtctaaccac
+      961 agggatcccc tcctgcttac ccacccaccg taaactctta
+//
+LOCUS       NC_006581               1000 bp    DNA              UNK 01-JAN-1980
+DEFINITION  cox2 Upstream sequence.
+ACCESSION   NC_006581
+VERSION     NC_006581.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     gene            219..734
+                     /gene="rpl16"
+                     /locus_tag="NitaMp067"
+                     /db_xref="GeneID:3205294"
+     CDS             219..734
+                     /gene="rpl16"
+                     /locus_tag="NitaMp067"
+                     /codon_start=1
+                     /product="ribosomal protein L16"
+                     /protein_id="YP_173411.1"
+                     /db_xref="GeneID:3205294"
+                     /translation="MLLRKYLLVTESQVSKCGFPIVKKKRDVLYPKRTKYSKYRKGRCS
+                     RGCKPDGTQLGFGRYGTKSCRAGRLSYRAIEAARRAIIGHFHRAMSGQFRRNGKIWVRV
+                     LADIPITGKPTEVRMGRGKGNPTGWIARVSRGQILFEMDGVSLSNARQAATLAAHKLCS
+                     STKFVQWS"
+ORIGIN
+        1 gattgctcaa gacatctctt ttcaaccgag gaacaaaaca agatcatttc gttccatttt
+       61 tagtaaaata gtgaaggata ttccattagt aatgaaaaaa ggggtggagg ggatccgtat
+      121 atgttgttca ggtcgattag aaggtgcaga aatagctaga actgaatgcg gaaagtatgg
+      181 aaaaacatct cgtaatgtat ttaaccagaa aatagattat gctcctgcgg aagtatctac
+      241 tcgttacgga atctcaggtg tcaaagtgtg gatttcctat agtaaaaaaa aaaagggacg
+      301 tgctatatcc gaaacgtacg aaatatagta aatatcgtaa aggcagatgt agtaggggtt
+      361 gcaaaccgga cggtacacaa cttggttttg gaagatatgg cactaaaagt tgtagagctg
+      421 gtcgtctttc atatcgagcc attgaagcag cgcgtcgtgc tataatcgga cacttccatc
+      481 gtgctatgag cggacaattc cgaagaaatg gtaagatatg ggtaagagtt ctcgcagata
+      541 tccctattac cgggaaacct acagaagtaa gaatgggaag aggaaaggga aatcctacgg
+      601 gttggattgc tcgtgtgtcc aggggacaaa tcctatttga aatggatggt gtgagtttgt
+      661 caaatgctcg acaagccgct acattagcgg cgcataaact atgttcgtca accaagtttg
+      721 ttcagtggtc gtaagcttat aaatctgacc caaattctcc attttggtac acgccaaagc
+      781 gttccatttc ggcggattga aagagccatc aatcactatg atctctttct tagaaaagaa
+      841 attgcgtaaa ttcttccttt ttttctccca tgctttccgt tggtcaacaa ccaactaaag
+      901 tgctctatac ttcttcacta ctcgtacagg gaaggtggaa gaaatgaagt ctctcttttt
+      961 tttgggggga gcagagcagt caaagaatga accaaaccaa
+//

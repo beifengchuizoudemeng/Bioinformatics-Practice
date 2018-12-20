@@ -1,0 +1,211 @@
+
+1. EBioMedicine. 2017 Dec;26:100-111. doi: 10.1016/j.ebiom.2017.10.030. Epub 2017
+Nov 3.
+
+Deguelin, an Aurora B Kinase Inhibitor, Exhibits Potent Anti-Tumor Effect in
+Human Esophageal Squamous Cell Carcinoma.
+
+Yu X(1), Liang Q(2), Liu W(3), Zhou L(4), Li W(5), Liu H(6).
+
+Author information: 
+(1)Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic,
+9500 Euclid Avenue, Cleveland, OH 44195, USA.
+(2)Department of Radiology, The Third Xiangya Hospital of Central South
+University, Changsha, Hunan 410013, PR China; Cell Transplantation and Gene
+Therapy Institute, The Third Xiangya Hospital of Central South University,
+Changsha, Hunan 410013, PR China.
+(3)Department of Pathology, Hunan Cancer Hospital, The Affiliated Cancer Hospital
+of Xiangya School of Medicine, Central South University, Changsha, Hunan 410013, 
+PR China.
+(4)Department of Pathology, Xiangya Hospital of Central South University,
+Changsha, Hunan 410008, PR China.
+(5)Department of Radiology, The Third Xiangya Hospital of Central South
+University, Changsha, Hunan 410013, PR China; Cell Transplantation and Gene
+Therapy Institute, The Third Xiangya Hospital of Central South University,
+Changsha, Hunan 410013, PR China. Electronic address: Weililx@163.com.
+(6)Department of Cardiovascular Surgery, The Second Xiangya Hospital of Central
+South University, Changsha, Hunan 410011, PR China; Clinical Center for Gene
+Diagnosis and Therapy, The Second Xiangya Hospital of Central South University,
+Changsha, Hunan 410011, PR China. Electronic address: haidanliu@csu.edu.cn.
+
+Aurora B kinase has emerged as a key regulator of mitosis and deregulation of
+Aurora B activity is closely related to the development and progression of human 
+cancers. In the present study, we found that Aurora B is overexpressed in human
+esophageal squamous cell carcinoma (ESCC), high levels of Aurora B protein were
+associated with a worse overall survival rate in ESCC patients. Depleting of
+Aurora B blunted the malignant phenotypes in ESCC cells. Importantly, we
+demonstrated that a natural compound, deguelin, has a profound anti-tumor effect 
+on ESCC via inhibiting Aurora B activity. Deguelin potently inhibited in vitro
+Aurora B kinase activity. The in silico docking study further indicated that
+deguelin was docked into the ATP-binding pocket of Aurora B. Inhibition of Aurora
+B activity attenuated growth of ESCC cells, resulted in G2/M cell cycle arrest,
+polyploidy cells formation, and apoptosis induction. Knocking down of Aurora B
+decreased the sensitivity of ESCC cells to deguelin. The in vivo results showed
+that deguelin blocked the phosphorylation of histone H3 and inhibited the growth 
+of ESCC tumor xenografts. Overall, we identified deguelin as an effective Aurora 
+B inhibitor, which deserves further studies in other animal models and ESCC
+treatment.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2017.10.030 
+PMCID: PMC5832566
+PMID: 29129699  [Indexed for MEDLINE]
+
+
+2. Nat Commun. 2017 Jul 28;8(1):150. doi: 10.1038/s41467-017-00209-z.
+
+Aurora-B kinase pathway controls the lateral to end-on conversion of
+kinetochore-microtubule attachments in human cells.
+
+Shrestha RL(1)(2), Conti D(1)(3), Tamura N(1)(4), Braun D(1), Ramalingam RA(3),
+Cieslinski K(5), Ries J(5), Draviam VM(6)(7).
+
+Author information: 
+(1)Department of Genetics, University of Cambridge, Cambridge, CB2 3EH, UK.
+(2)Center for Cancer Research, National Cancer Institute, National Institutes of 
+Health, Bethesda, Maryland, 20892, USA.
+(3)School of Biological and Chemical Sciences, Queen Mary University of London,
+London, E1 4NS, UK.
+(4)Barts Cancer Institute, Queen Mary University of London, London, EC1M 6BQ, UK.
+(5)European Molecular Biology Laboratory, Cell Biology and Biophysics Unit,
+Meyerhofstrasse 1, Heidelberg, Germany.
+(6)Department of Genetics, University of Cambridge, Cambridge, CB2 3EH, UK.
+v.draviam@qmul.ac.uk.
+(7)School of Biological and Chemical Sciences, Queen Mary University of London,
+London, E1 4NS, UK. v.draviam@qmul.ac.uk.
+
+Human chromosomes are captured along microtubule walls (lateral attachment) and
+then tethered to microtubule-ends (end-on attachment) through a multi-step end-on
+conversion process. Upstream regulators that orchestrate this remarkable change
+in the plane of kinetochore-microtubule attachment in human cells are not known. 
+By tracking kinetochore movements and using kinetochore markers specific to
+attachment status, we reveal a spatially defined role for Aurora-B kinase in
+retarding the end-on conversion process. To understand how Aurora-B activity is
+counteracted, we compare the roles of two outer-kinetochore bound phosphatases
+and find that BubR1-associated PP2A, unlike KNL1-associated PP1, plays a
+significant role in end-on conversion. Finally, we uncover a novel role for
+Aurora-B regulated Astrin-SKAP complex in ensuring the correct plane of
+kinetochore-microtubule attachment. Thus, we identify Aurora-B as a key upstream 
+regulator of end-on conversion in human cells and establish a late role for
+Astrin-SKAP complex in the end-on conversion process.Human chromosomes are
+captured along microtubule walls and then tethered to microtubule-ends through a 
+multi-step end-on conversion process. Here the authors show that Aurora-B
+regulates end-on conversion in human cells and establish a late role for
+Astrin-SKAP complex in the end-on conversion process.
+
+DOI: 10.1038/s41467-017-00209-z 
+PMCID: PMC5532248
+PMID: 28751710  [Indexed for MEDLINE]
+
+
+3. Br J Cancer. 2017 Feb 28;116(5):592-599. doi: 10.1038/bjc.2016.453. Epub 2017 Jan
+17.
+
+Aurora B expression modulates paclitaxel response in non-small cell lung cancer.
+
+Al-Khafaji AS(1)(2), Davies MP(1), Risk JM(3), Marcus MW(1), Koffa M(4), Gosney
+JR(1), Shaw RJ(3), Field JK(1), Liloglou T(1).
+
+Author information: 
+(1)Roy Castle Lung Cancer ResearchProgramme, Department of Molecular and Clinical
+Cancer Medicine, Instituteof Translational Medicine, University of
+Liverpool,Liverpool, UK.
+(2)Department of Biology, Collage ofScience, University of Baghdad, Baghdad,Iraq.
+(3)Mersey Head and Neck OncologyResearch Group, Department of Molecular and
+Clinical Cancer Medicine,Institute of Translational Medicine, University of
+Liverpool,Liverpool, UK.
+(4)Department of Molecular Biology andGenetics, Democritus University of
+Thrace,Alexandroupolis, Greece.
+
+BACKGROUND: Taxanes are mitotic poisons widely used in the treatment of non-small
+cell lung cancer (NSCLC), however, little is known about potential molecular
+modulators of response to these compounds. Aurora B (AURKB) is a critical
+regulator of the mitotic spindle assembly, previously shown overexpressed in
+NSCLC. Here we investigated the hypothesis that AURKB expression modulates the
+efficacy of taxanes in NSCLC cells.
+METHODS: AURKB mRNA expression was determined by qPCR in 132 frozen NSCLC tissues
+and nine NSCLC cell lines. Aurora B expression was knocked down in cell lines
+using multiple shRNA constructs. Barasertib was used to specifically inhibit
+AURKB activity, determined by the level of H3S10 phosphorylation.
+RESULTS: Frequent AURKB mRNA upregulation was observed in NSCLC tissues
+(P<0.0001), being more prominent in squamous carcinomas (P<0.0001). Aurora B
+expression in cell lines strongly correlated with sensitivity to both docetaxel
+(P=0.004) and paclitaxel (P=0.007). Aurora B knockdown derivatives consistently
+showed a dose-dependent association between low-AURKB expression and resistance
+to paclitaxel. Specific chemical inhibition of Aurora B activity also
+demonstrated a strong dose-dependent efficiency in triggering paclitaxel
+resistance.
+CONCLUSIONS: Aurora B activity is an important modulator of taxane response in
+NSCLC cells. This may lead to further insights into taxane sensitivity of NSCLC
+tumours.
+
+DOI: 10.1038/bjc.2016.453 
+PMCID: PMC5344288
+PMID: 28095398  [Indexed for MEDLINE]
+
+
+4. Nat Commun. 2016 Dec 22;7:13853. doi: 10.1038/ncomms13853.
+
+PKCɛ switches Aurora B specificity to exit the abscission checkpoint.
+
+Pike T(1), Brownlow N(1), Kjaer S(2), Carlton J(3), Parker PJ(1)(3).
+
+Author information: 
+(1)Protein Phosphorylation Laboratory, The Francis Crick Institute, 1 Midland
+Road, London NW1 1AT, UK.
+(2)Protein Purification Facility, Francis Crick Institute, 1 Midland Road, London
+NW1 1AT, UK.
+(3)Division of Cancer Studies King's College London, New Hunt's House, Guy's
+Campus, London SE1 1UL, UK.
+
+The 'NoCut', or Aurora B abscission checkpoint can be activated if DNA is
+retained in the cleavage furrow after completion of anaphase. Checkpoint failure 
+leads to incomplete abscission and a binucleate outcome. These phenotypes are
+also observed after loss of PKCɛ in transformed cell models. Here we show that
+PKCɛ directly modulates the Aurora B-dependent abscission checkpoint by
+phosphorylating Aurora B at S227. This phosphorylation invokes a switch in Aurora
+B specificity, with increased phosphorylation of a subset of target substrates,
+including the CPC subunit Borealin. This switch is essential for abscission
+checkpoint exit. Preventing the phosphorylation of Borealin leads to abscission
+failure, as does expression of a non-phosphorylatable Aurora B S227A mutant.
+Further, depletion of the ESCRT-III component and Aurora B substrate CHMP4C
+enables abscission, bypassing the PKCɛ-Aurora B exit pathway. Thus, we
+demonstrate that PKCɛ signals through Aurora B to exit the abscission checkpoint 
+and complete cell division.
+
+DOI: 10.1038/ncomms13853 
+PMCID: PMC5192180
+PMID: 28004745  [Indexed for MEDLINE]
+
+
+5. Nat Commun. 2016 Apr 29;7:11451. doi: 10.1038/ncomms11451.
+
+Clks 1, 2 and 4 prevent chromatin breakage by regulating the Aurora B-dependent
+abscission checkpoint.
+
+Petsalaki E(1), Zachos G(1).
+
+Author information: 
+(1)Department of Biology, University of Crete, Vassilika Vouton, Heraklion, Crete
+70013, Greece.
+
+When chromatin is trapped at the intercellular bridge, cells delay completion of 
+cytokinesis (abscission) to prevent chromosome breakage. Here we show that
+inhibition of Cdc-like kinases (Clks) 1, 2 or 4 accelerates midbody resolution in
+normally segregating cells and correlates with premature abscission, chromatin
+breakage and generation of DNA damage in cytokinesis with trapped chromatin.
+Clk1, Clk2 and Clk4 localize to the midbody in an interdependent manner,
+associate with Aurora B kinase and are required for Aurora B-serine 331 (S331)
+phosphorylation and complete Aurora B activation in late cytokinesis.
+Phosphorylated Aurora B-S331 localizes to the midbody centre and is required for 
+phosphorylation and optimal localization of the abscission protein Chmp4c. In
+addition, expression of phosphomimetic mutants Aurora B-S331E or Chmp4c-S210D
+delays midbody disassembly and prevents chromatin breakage in Clk-deficient
+cells. We propose that Clks 1, 2 and 4 impose the abscission checkpoint by
+phosphorylating Aurora B-S331 at the midbody.
+
+DOI: 10.1038/ncomms11451 
+PMCID: PMC4855533
+PMID: 27126587  [Indexed for MEDLINE]
+

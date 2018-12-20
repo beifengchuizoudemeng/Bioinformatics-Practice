@@ -1,0 +1,11 @@
+LOCUS       HSU24685      505 bp    DNA             PRI       08-MAY-1995
+CDSjoin(1..46,130..443)
+atgaaacacctgtggttcttcctcctcctggtggcagctcccagatgtgagtgtctcagg
+aatgcggatatgaagatatgagatgctgcctctgatcccagggctcactgtgggtttctc
+tgttcacaggggtcctgtcccaggtgcagctacagcagtggggcgcaggactgttgaagc
+cttcggagaccctgtccctcacctgcgctgtctatggtgggtccttcagtggttactact
+ggagctggatccgccagcccccagggaaggggctggagtggattggggaaatcaatcata
+gtggaagcaccaactacaacccgtccctcaagagtcgagtcaccatatcagtagacacgt
+ccaagaaccagttctccctgaagctgagctctgtgaccgccgcggacacggctgtgtatt
+actgtgcgagagccggggcctaatagtgggagctactactgcttttgatatctggggcca
+agggacaatggtcaccgtctcctca

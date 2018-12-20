@@ -1,0 +1,13 @@
+LOCUS       HUMGALT54X    621 bp    DNA             PRI       13-NOV-1995
+CDSjoin(22..103,412..491)
+agcggatcccccggtggcctcatgtcgcgcagtggaaccgatcctcagcaacgccagcag
+gcgtcagaggcggacgccgcagcagcaaccttccgggcaaacggtaactgcaccgcggca
+gggactcgctggggcgcggagccgagccctccccttccttaggaagctttcgtccccctc
+cgaaggttggaacgctcatcccgagccagaccgacaaggcgtacagtctgcaggcctcta
+cgagcagcaggccaattggcgctgggaaagtccaatcctgggcctctagctcctgagcgg
+gacagggccgagagggcgctcccgagcttgggcctgctggtgggtgagacccaggagaga
+gggagctagaggggggagctctgaggactgatcttgactgtctgcccccagaccatcagc
+atatccgctacaacccgctgcaggatgagtgggtgctggtgtcagctcaccgcatgaagc
+ggccctggtagggtcaagtggagccccagcttctgaagacagtgccccgccatgaccctc
+tcaaccctctgtgtcctggggccatccgagccaacggagaggtaagcctgtagagccctg
+catctgcaggctgggccacgg

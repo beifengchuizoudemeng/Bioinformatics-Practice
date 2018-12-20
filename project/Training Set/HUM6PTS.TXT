@@ -1,0 +1,14 @@
+LOCUS       HUM6PTS       718 bp    DNA             PRI       22-JUL-1996
+CDSjoin(7..320,519..642)
+gggaagatgagcacggaaggtggtggccgtcgctgccaggcacaagtgtcccgccgcatc
+tccttcagcgcgagccaccgattgtacagtaaatttctaagtgatgaagaaaacttgaaa
+ctgtttgggaaatgcaacaatccaaatggccatgggcacaattataaagttgtggtgaca
+gtacatggagagattgaccctgctacgggaatggttatgaatctggctgatctcaaaaaa
+tatatggaggaggcgattatgcagccccttgatcataagaatctggatatggatgtgcca
+tactttgcagatgtggtgaggtgggtggcactgtatcttgccttatgtggattgtaaaac
+aagaattgatttgaatactttgattgttgtgtgatttctgaagttttaatttaatgaaat
+ctttcgaaactagaatttctattttctgtaaatattaaacatgaaattttattgtttgca
+ttttgaattttttttgtttttgtttttttttcttatagcacgactgaaaatgtagctgtt
+tatatctgggacaacctccagaaagttcttcctgtaggagttctttataaagtaaaagta
+tacgaaactgacaataatattgtggtttataaaggagaatagctattggggttagcattg
+cacaaagcccagtttctttctgtgtttgaaaaagattttgatccccttggaatattaa

@@ -1,0 +1,986 @@
+AURKB aurora kinase B[Homo sapiens]
+Gene ID: 9212, updated on 7-Oct-2018
+
+
+SUMMARY
+-------------------------------------------------------------------------------------------------
+
+Official Symbol: AURKB (provided by HGNC)
+Official full name: aurora kinase B (provided by HGNC)
+Primary source: HGNC:HGNC:11390
+See related: Ensembl:ENSG00000178999; MIM:604970; Vega:OTTHUMG00000108189
+Gene type: protein coding
+RefSeq status: REVIEWED
+Organism: Homo sapiens
+
+Lineage: Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo
+
+Also known as: AIK2; AIM1; ARK2; AurB; IPL1; STK5; AIM-1; ARK-2; STK-1; STK12; PPP1R48; aurkb-sv1; aurkb-sv2
+
+Summary: This gene encodes a member of the aurora kinase subfamily of serine/threonine
+kinases. The genes encoding the other two members of this subfamily are located
+on chromosomes 19 and 20. These kinases participate in the regulation of
+alignment and segregation of chromosomes during mitosis and meiosis through
+association with microtubules. A pseudogene of this gene is located on chromosome
+8. Alternatively spliced transcript variants have been found for this gene.
+[provided by RefSeq, Sep 2015]
+
+Orthologsall (/gene/?Term=ortholog_gene_9212[group]), mouse (https://www.ncbi.nlm.nih.gov/gene/20877)
+
+GENOMIC CONTEXT
+-------------------------------------------------------------------------------------------------
+
+
+Location: 17p13.1
+
+Annotation release	Status	Assembly	Chromosome	Location
+-------------------------------------------------------------------------------------------------
+109	current	GRCh38.p12 (GCF_000001405.38)	17	NC_000017.11 (8204731..8210767, complement) 
+105	previous assembly	GRCh37.p13 (GCF_000001405.25)	17	NC_000017.10 (8108049..8113944, complement) 
+Exont count: 10
+
+
+BIBLIOGRAPHY
+-------------------------------------------------------------------------------------------------
+
+
+Related Articles in PubMed
+
+1. High expression of Aurora-B is correlated with poor prognosis and drug resistance
+in non-small cell lung cancer. Yu J, . Int J Biol Markers, 2018 May, PMID
+29707994.
+2. Deguelin, an Aurora B Kinase Inhibitor, Exhibits Potent Anti-Tumor Effect in
+Human Esophageal Squamous Cell Carcinoma. Yu X, . EBioMedicine, 2017 Dec, PMID
+29129699., Free PMC Article(s): PMC5832566
+3. A Vector-Based Short Hairpin RNA Targeting Aurora B Suppresses Human Prostatic
+Carcinoma Growth. Cao M, . Technol Cancer Res Treat, 2017 Feb, PMID 28100163., Free PMC Article(s): PMC5616121
+4. The Ska complex promotes Aurora B activity to ensure chromosome biorientation.
+Redli PM, . J Cell Biol, 2016 Oct 10, PMID 27697923., Free PMC Article(s): PMC5057281
+5. Aurora-B and HDAC synergistically regulate survival and proliferation of lymphoma
+cell via AKT, mTOR and Notch pathways. Wang C, . Eur J Pharmacol, 2016 May 15,
+PMID 26638998.
+6. Reed-Sternberg cells form by abscission failure in the presence of functional
+Aurora B kinase. Xavier de Carvalho A, . PLoS One, 2015, PMID 25933052., Free PMC Article(s): PMC4416800
+<pre>
+PHENOTYPES
+-------------------------------------------------------------------------------------------------
+
+Review eQTL and phenotype association data in this region using PheGenI
+	http://www.ncbi.nlm.nih.gov/gap/PheGenI?chr=17&amp;from=8210766&amp;fromto=8210766+8204730&amp;tab=0
+</pre>
+
+VARIATION
+-------------------------------------------------------------------------------------------------
+
+See variants in ClinVar, http://130.14.18.104/sites/gene/clinvar/?term=AURKB[gene]
+See studies and variants in dbVar, http://130.14.18.104/sites/gene
+See Variation Viewer (GRCh37.p13), http://130.14.18.104/sites/gene/variation/view/?q=9212[geneid]&amp;assm=GCF_000001405.25
+See Variation Viewer (GRCh38), http://130.14.18.104/sites/gene/variation/view/?q=9212[geneid]<pre/><pre>
+Genotypes
+	See  SNP Geneview Report, http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2FSNP%2Fsnp_ref.cgi%3FlocusId%3D9212
+	See 1000 Genomes Browser (GCF_000001405.25), http://130.14.18.104/sites/gene/variation/tools/1000genomes/?q=9212[geneid]&amp;assm=GCF_000001405.25</pre>
+
+HIV-1 INTERACTIONS
+-------------------------------------------------------------------------------------------------
+Protein interactions
+Protein			Gene						Interaction		Pubs
+-------------------------------------------------------------------------------------------------
+/protein/28872817		/gene/155807		HIV-1 Vpr upregulates AURKB in HeLa cells within 12 hours of exposure		27114546
+/protein/28872817		/gene/155807		AurB and INCENP proteins targeting the inner centromere are reduced significantly in HIV-1 Vpr-expressing prometaphase cells		21875947
+
+Go to the HIV-1, Human Interaction Database: http://130.14.18.104/genome/viruses/retroviruses/hiv-1/interactions/
+
+INTERACTION
+-------------------------------------------------------------------------------------------------
+
+Description of Gene Interaction table
+
+Product		Interactant	Other Gene    Complex	Source		Pubs
+-------------------------------------------------------------------------------------------------
+
+HsAIRK-2 interacts with survivin in the RasGAP/HsAIRK-2/survivin complex.  This interaction was modelled on a demonstrated interaction between human HsAIRK-2 and monkey survivin.
+NP_004208.1    	NP_001159.1    	BIRC5      		BIND		PMID: 11976319
+RasGAP interacts with HsAIRK-2 in the RasGAP/HsAIRK-2/survivin complex.
+NP_004208.1    	NP_002881.1    	RASA1      		BIND		PMID: 11976319
+Q96GD4         	Q9H8Y5         	ANKZF1     		HPRD		PMID: 16169070
+Q96GD4         	O15392         	BIRC5      		HPRD		PMID: 16291752,12419797,11516652
+Q96GD4         	Q53HL2         	CDCA8      		HPRD		PMID: 15260989,15249581
+Q96GD4         	P49450         	CENPA      		HPRD		PMID: 11756469
+Q96GD4         	P17661         	DES        		HPRD		PMID: 12686604
+Q96GD4         	Histone 1, H3A 	HIST1H3A   		HPRD		PMID: 10949293
+Q96GD4         	Q9NQS7         	INCENP     		HPRD		PMID: 12925766
+Q96GD4         	O14777         	NDC80      		HPRD		PMID: 14602875
+Q96GD4         	NOL1/NOP2/Sun domain family, member 2	NSUN2      		HPRD		PMID: 17215513
+Q96GD4         	Q9BZD4         	NUF2       		HPRD		PMID: 14602875
+Q96GD4         	P25788         	PSMA3      		HPRD		PMID: 14674694
+Q96GD4         	Q9H0H5         	RACGAP1    		HPRD		PMID: 14744859,12689593
+Q96GD4         	P20936         	RASA1      		HPRD		PMID: 11976319
+Q96GD4         	Q8WYJ6         	SEPT1      		HPRD		PMID: 16179162
+Q96GD4         	O75410         	TACC1      		HPRD		PMID: 15064709
+Q96GD4         	Q12788         	TBL3       		HPRD		PMID: 16169070
+Q96GD4         	P36897         	TGFBR1     		HPRD		PMID: 15761153
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:106534 	AARS       		BioGRID		PMID: 27173435
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:106547 	ABR        		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:124393 	AJUBA      		BioGRID		PMID: 18710370
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:127557 	AMOT       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:117519 	ANKRD17    		BioGRID		PMID: 23443559
+Reconstituted Complex
+BioGRID:114646 	BioGRID:106848 	APP        		BioGRID		PMID: 21832049
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112666 	AURKA      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:114646 	AURKB      		BioGRID		PMID: 22371557,21658950,18710370,15249581
+Affinity Capture-Western; Co-fractionation
+BioGRID:114646 	BioGRID:112671 	AURKC      		BioGRID		PMID: 15316025
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:203547 	Aurkb      		BioGRID		PMID: 20360068
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107056 	BARD1      		BioGRID		PMID: 22350409,19176389
+Two-hybrid
+BioGRID:114646 	BioGRID:115335 	BCL2L11    		BioGRID		PMID: 21988832
+Affinity Capture-Western; Co-localization; Phenotypic Enhancement; Reconstituted Complex; Two-hybrid
+BioGRID:114646 	BioGRID:106829 	BIRC5      		BioGRID		PMID: 21554500,20430883,19995937,19951914,19357306,18477699,17099693,16291752,12419797,11516652
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107142 	BRCA2      		BioGRID		PMID: 19176389
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107166 	BUB1B      		BioGRID		PMID: 18710370
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107252 	CALM1      		BioGRID		PMID: 23370391
+Biochemical Activity
+BioGRID:114646 	BioGRID:116463 	CBX3       		BioGRID		PMID: 23829974
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:114646 	BioGRID:117030 	CBX5       		BioGRID		PMID: 20562864,20231385
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:123838 	CCDC8      		BioGRID		PMID: 24711643
+Proximity Label-MS
+BioGRID:114646 	BioGRID:114125 	CDC14B     		BioGRID		PMID: 27880917
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107427 	CDC20      		BioGRID		PMID: 15923616
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:107431 	CDC27      		BioGRID		PMID: 15923616
+Affinity Capture-Luminescence; Affinity Capture-MS
+BioGRID:114646 	BioGRID:116312 	CDC37      		BioGRID		PMID: 26186194,25036637
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:107424 	CDC5L      		BioGRID		PMID: 20467437
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:122724 	CDC73      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity; Co-localization; Reconstituted Complex
+BioGRID:114646 	BioGRID:120446 	CDCA8      		BioGRID		PMID: 21554500,20430883,19951914,18946085,18243099,17956729,17099693,15260989,15249581
+Biochemical Activity
+BioGRID:114646 	BioGRID:107487 	CENPA      		BioGRID		PMID: 20663916,20593489,11756469
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115193 	CEP170     		BioGRID		PMID: 23443559
+Two-hybrid
+BioGRID:114646 	BioGRID:115774 	CIB1       		BioGRID		PMID: 21988832
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115038 	CLINT1     		BioGRID		PMID: 23443559
+Proximity Label-MS
+BioGRID:114646 	BioGRID:116248 	CNTRL      		BioGRID		PMID: 26638075
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:114030 	CUL3       		BioGRID		PMID: 26766443,17543862
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115159 	CUL7       		BioGRID		PMID: 24711643
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:114646 	BioGRID:107920 	CYLD       		BioGRID		PMID: 20593489
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:212479 	Cdca5      		BioGRID		PMID: 20360068
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:206490 	Cdca8      		BioGRID		PMID: 20360068
+Proximity Label-MS
+BioGRID:114646 	BioGRID:108007 	DCTN1      		BioGRID		PMID: 26638075
+Reconstituted Complex
+BioGRID:114646 	BioGRID:119920 	DCUN1D1    		BioGRID		PMID: 25411243
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108009 	DDB1       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108021 	DDX5       		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:108038 	DES        		BioGRID		PMID: 12686604
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:124527 	DOCK7      		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:119582 	DTL        		BioGRID		PMID: 18542055
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108181 	DUSP6      		BioGRID		PMID: 27432908
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:125185 	EGLN3      		BioGRID		PMID: 26972000
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:114190 	EIF4EBP3   		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:121148 	EIF4ENIF1  		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108336 	ENDOG      		BioGRID		PMID: 26186194
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108347 	EP300      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:114646 	BioGRID:113584 	EVI5       		BioGRID		PMID: 16764853
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:117355 	FBXL2      		BioGRID		PMID: 23928698,23370391
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:120581 	FBXW7      		BioGRID		PMID: 23095493
+Affinity Capture-Luminescence; Affinity Capture-MS
+BioGRID:114646 	BioGRID:108579 	FKBP5      		BioGRID		PMID: 25036637
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:114646 	BioGRID:115506 	FLOT1      		BioGRID		PMID: 20430883
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108773 	FTH1       		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:119489 	FZR1       		BioGRID		PMID: 15923616
+Biochemical Activity
+BioGRID:114646 	BioGRID:108938 	GFAP       		BioGRID		PMID: 12686604
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:117520 	GIGYF2     		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:123814 	HASPIN     		BioGRID		PMID: 21658950
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:117927 	HBP1       		BioGRID		PMID: 29911972
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115331 	HDAC5      		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:114438 	HERC2      		BioGRID		PMID: 25476789
+Proximity Label-MS
+BioGRID:114646 	BioGRID:113935 	HIST1H2BG  		BioGRID		PMID: 25281560
+Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:113946 	HIST1H3A   		BioGRID		PMID: 21397507,18477699,11756469
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:113933 	HIST2H2AA3 		BioGRID		PMID: 17914355
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:113934 	HIST2H2AC  		BioGRID		PMID: 17914355
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:113945 	HIST2H2BE  		BioGRID		PMID: 17914355
+Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:126025 	HIST2H3C   		BioGRID		PMID: 21658950,20929775
+Biochemical Activity
+BioGRID:114646 	BioGRID:113895 	HIST3H3    		BioGRID		PMID: 21554500,20663916,20593489
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109420 	HNRNPA1    		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109433 	HNRNPU     		BioGRID		PMID: 23443559
+Affinity Capture-Luminescence; Affinity Capture-MS; Affinity Capture-Western
+BioGRID:114646 	BioGRID:109552 	HSP90AA1   		BioGRID		PMID: 28514442,26186194,23443559,22939624
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109555 	HSP90AA4P  		BioGRID		PMID: 28514442,26186194
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:610599 	HSP90AA5P  		BioGRID		PMID: 28514442,26186194
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109558 	HSP90AB1   		BioGRID		PMID: 28514442,26186194,23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109535 	HSPA1A     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109541 	HSPA5      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109545 	HSPA9      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:109561 	HSPD1      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Co-localization; Reconstituted Complex; Two-hybrid
+BioGRID:114646 	BioGRID:109831 	INCENP     		BioGRID		PMID: 21554500,20562864,20430883,19995937,19951914,19357306,18773538,18477699,17956729,16571674,16239925,15316025,15249581,12925766,11050385
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:114048 	IRS4       		BioGRID		PMID: 23443559
+Affinity Capture-MS; Reconstituted Complex
+BioGRID:114646 	BioGRID:200760 	Incenp     		BioGRID		PMID: 20360068,11050385
+Co-localization; Reconstituted Complex
+BioGRID:114646 	BioGRID:115418 	KIF20A     		BioGRID		PMID: 26766443,15263015
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:110000 	KIF5B      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:124688 	KLHL13     		BioGRID		PMID: 19995937,17543862
+Affinity Capture-Western; Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:115232 	KLHL21     		BioGRID		PMID: 19995937
+Affinity Capture-Western; Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:121009 	KLHL9      		BioGRID		PMID: 19995937,17543862
+Biochemical Activity
+BioGRID:114646 	BioGRID:114563 	LATS1      		BioGRID		PMID: 21822051
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:117727 	LATS2      		BioGRID		PMID: 21822051
+Reconstituted Complex
+BioGRID:114646 	BioGRID:124219 	LNX1       		BioGRID		PMID: 22087225
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115432 	LRPPRC     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:122969 	MAP9       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:111583 	MAPK6      		BioGRID		PMID: 26972000
+Affinity Capture-Western; Reconstituted Complex; Two-hybrid
+BioGRID:114646 	BioGRID:116581 	MAPRE1     		BioGRID		PMID: 19696028,18477699
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:116178 	MAPRE2     		BioGRID		PMID: 19696028
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:116584 	MAPRE3     		BioGRID		PMID: 19696028
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:108326 	MARK2      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115646 	MICU1      		BioGRID		PMID: 27173435
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:113599 	MOGS       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116731 	MRPS27     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:114306 	MTMR1      		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:116970 	NCAPH      		BioGRID		PMID: 21633354
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:115675 	NDC80      		BioGRID		PMID: 14602875
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:117586 	NOC2L      		BioGRID		PMID: 20959462
+Co-localization
+BioGRID:114646 	BioGRID:117433 	NSL1       		BioGRID		PMID: 20231385
+Biochemical Activity
+BioGRID:114646 	BioGRID:120236 	NSUN2      		BioGRID		PMID: 17215513
+Affinity Capture-Western; Biochemical Activity
+BioGRID:114646 	BioGRID:123673 	NUF2       		BioGRID		PMID: 14602875
+Proximity Label-MS
+BioGRID:114646 	BioGRID:114055 	OFD1       		BioGRID		PMID: 26638075
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:111275 	PHKB       		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:111332 	PKM        		BioGRID		PMID: 25412762
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:119982 	PLEKHA5    		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:114072 	PPFIA1     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:111490 	PPM1B      		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:111493 	PPP1CA     		BioGRID		PMID: 17274640
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116059 	PPP1R13L   		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:111507 	PPP2CA     		BioGRID		PMID: 18477699
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:111529 	PPP6C      		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:111105 	PRKN       		BioGRID		PMID: 26387737
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:114577 	PRPF3      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116822 	PRRC2C     		BioGRID		PMID: 23443559
+Affinity Capture-Western; Two-hybrid
+BioGRID:114646 	BioGRID:111657 	PSMA3      		BioGRID		PMID: 21988832,14674694
+Biochemical Activity
+BioGRID:114646 	BioGRID:111516 	PTPA       		BioGRID		PMID: 20593489
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115050 	PUM1       		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:118892 	RACGAP1    		BioGRID		PMID: 18201571,12689593
+Two-hybrid
+BioGRID:114646 	BioGRID:115671 	RACK1      		BioGRID		PMID: 21988832
+Biochemical Activity
+BioGRID:114646 	BioGRID:111830 	RAD52      		BioGRID		PMID: 29078282
+Biochemical Activity
+BioGRID:114646 	BioGRID:35137  	RAD52      		BioGRID		PMID: 29078282
+Biochemical Activity
+BioGRID:114646 	BioGRID:116356 	RASSF1     		BioGRID		PMID: 21874044
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:125936 	RAVER1     		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity; Reconstituted Complex
+BioGRID:114646 	BioGRID:111860 	RB1        		BioGRID		PMID: 19225156
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:133227 	RBM12B     		BioGRID		PMID: 28514442,26186194
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:121001 	RCC2       		BioGRID		PMID: 15249581
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:119899 	RIPK4      		BioGRID		PMID: 26972000
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112054 	RPL10      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112131 	RPS16      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112144 	RPS25      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112146 	RPS27      		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112105 	RPS4X      		BioGRID		PMID: 23443559
+Affinity Capture-Western; Biochemical Activity; Reconstituted Complex; Two-hybrid
+BioGRID:114646 	BioGRID:108075 	SEPT1      		BioGRID		PMID: 21988832,16179162
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:127395 	SGO1       		BioGRID		PMID: 17322402
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:123608 	SHARPIN    		BioGRID		PMID: 23443559
+Biochemical Activity
+BioGRID:114646 	BioGRID:128632 	SKA1       		BioGRID		PMID: 22371557
+Biochemical Activity
+BioGRID:114646 	BioGRID:128691 	SKA3       		BioGRID		PMID: 22371557
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:112393 	SKP2       		BioGRID		PMID: 26697838
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112483 	SMARCC1    		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116597 	SNW1       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112664 	STK3       		BioGRID		PMID: 24255178
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:112665 	STK4       		BioGRID		PMID: 24255178
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116115 	SUGT1      		BioGRID		PMID: 28514442
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:211629 	Srp72      		BioGRID		PMID: 26496610
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:112730 	TACC1      		BioGRID		PMID: 15064709
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115213 	TBC1D4     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:122998 	TCEAL4     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:115624 	TFG        		BioGRID		PMID: 26496610
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:113010 	TP53       		BioGRID		PMID: 20959462
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:116624 	TPX2       		BioGRID		PMID: 19357306
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:113123 	TTK        		BioGRID		PMID: 26186194
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:113603 	TUBA1A     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:124259 	TUBA1C     		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:128444 	TUBB       		BioGRID		PMID: 23443559
+Affinity Capture-Western; Co-localization; Reconstituted Complex
+BioGRID:114646 	BioGRID:124390 	UBASH3B    		BioGRID		PMID: 26766443
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:113162 	UBB        		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:113164 	UBC        		BioGRID		PMID: 25411243
+Biochemical Activity
+BioGRID:114646 	BioGRID:113177 	UBE2I      		BioGRID		PMID: 21554500
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:116934 	UBR4       		BioGRID		PMID: 23443559
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:119501 	UBR5       		BioGRID		PMID: 23443559
+Affinity Capture-Western
+BioGRID:114646 	BioGRID:114551 	USP14      		BioGRID		PMID: 28662510
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:113348 	XPO1       		BioGRID		PMID: 26673895
+Affinity Capture-MS
+BioGRID:114646 	BioGRID:121203 	ZC3HAV1    		BioGRID		PMID: 23443559
+
+Pathways from BioSystems
+-------------------------------------------------------------------------------------------------
+
+APC/C-mediated degradation of cell cycle proteins, organism-specific biosystem (from REACTOME)
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1, organism-specific biosystem (from REACTOME)
+ATM Signaling Network in Development and Disease, organism-specific biosystem (from WikiPathways)
+Aurora A signaling, organism-specific biosystem (from Pathway Interaction Database)
+Aurora B signaling, organism-specific biosystem (from Pathway Interaction Database)
+Aurora C signaling, organism-specific biosystem (from Pathway Interaction Database)
+Cell Cycle, organism-specific biosystem (from REACTOME)
+Cell Cycle, Mitotic, organism-specific biosystem (from REACTOME)
+FOXM1 transcription factor network, organism-specific biosystem (from Pathway Interaction Database)
+Gene Expression, organism-specific biosystem (from REACTOME)
+Generic Transcription Pathway, organism-specific biosystem (from REACTOME)
+M Phase, organism-specific biosystem (from REACTOME)
+Metabolism of proteins, organism-specific biosystem (from REACTOME)
+Mitotic Anaphase, organism-specific biosystem (from REACTOME)
+Mitotic Metaphase and Anaphase, organism-specific biosystem (from REACTOME)
+Mitotic Prometaphase, organism-specific biosystem (from REACTOME)
+Post-translational protein modification, organism-specific biosystem (from REACTOME)
+RHO GTPase Effectors, organism-specific biosystem (from REACTOME)
+RHO GTPases Activate Formins, organism-specific biosystem (from REACTOME)
+Regulation of TP53 Activity, organism-specific biosystem (from REACTOME)
+Regulation of TP53 Activity through Phosphorylation, organism-specific biosystem (from REACTOME)
+Regulation of mitotic cell cycle, organism-specific biosystem (from REACTOME)
+Resolution of Sister Chromatid Cohesion, organism-specific biosystem (from REACTOME)
+SUMO E3 ligases SUMOylate target proteins, organism-specific biosystem (from REACTOME)
+SUMOylation, organism-specific biosystem (from REACTOME)
+SUMOylation of DNA replication proteins, organism-specific biosystem (from REACTOME)
+Separation of Sister Chromatids, organism-specific biosystem (from REACTOME)
+Signal Transduction, organism-specific biosystem (from REACTOME)
+Signaling by Aurora kinases, organism-specific biosystem (from Pathway Interaction Database)
+Signaling by Rho GTPases, organism-specific biosystem (from REACTOME)
+Transcriptional Regulation by TP53, organism-specific biosystem (from REACTOME)
+
+
+GENERAL GENE INFO
+-------------------------------------------------------------------------------------------------
+
+Marker
+	RH17506              	(e-PCR)	Links:UniSTS:43328
+	SGC34636             	(e-PCR)	Links:UniSTS:150
+
+Related pseudogene(s)
+	1 foundReview record(s) in Gene, http://130.14.18.104/gene/?Term=related_functional_gene_9212%5Bgroup%5D
+
+
+Homology
+	Homologs of the AURKB gene
+		The AURKB gene is conserved in chimpanzee, Rhesus monkey, dog, cow, mouse, rat, zebrafish, S.cerevisiae, K.lactis, E.gossypii, S.pombe, M.oryzae, N.crassa, and frog.
+	Orthologs from Annotation Pipeline (/gene/?Term=ortholog_gene_9212[group]): 
+	The Hierarchical Catalog of Orthologs
+
+Gene Ontology Provided by GOA (www.ebi.ac.uk/GOA)
+
+Function				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+ATP binding                                   GO:0000000	-
+histone serine kinase activity                GO:0000000	PMID: 21873635
+histone serine kinase activity                GO:0000000	-
+kinase binding                                GO:0000000	PMID: 23036704
+metal ion binding                             GO:0000000	-
+protein binding                               GO:0000000	PMID: 12689593,15064709,16179162,16239925,16291752,17099693,17681274,17726514,17956729,18243099,18477699,19357306,20562864,20739936,20959462,21051298,21346195,21988832,22939624,23036704,24571573,24857377,25036637,26829474,27332895,29340707,29568061
+protein serine/threonine kinase activity      GO:0000000	PMID: 21397845
+protein serine/threonine kinase activity      GO:0000000	PMID: 22724069
+protein serine/threonine kinase activity      GO:0000000	-
+protein serine/threonine/tyrosine kinase...   GO:0000000	PMID: 19774610
+
+Processs				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+abscission                                    GO:0000000	-
+aging                                         GO:0000000	-
+anaphase-promoting complex-dependent cat...   GO:0000000	-
+attachment of spindle microtubules to ki...   GO:0000000	PMID: 19774610
+cell proliferation                            GO:0000000	-
+cellular response to UV                       GO:0000000	PMID: 20959462
+cleavage furrow formation                     GO:0000000	PMID: 16103226
+histone H3-S28 phosphorylation                GO:0000000	-
+histone modification                          GO:0000000	PMID: 19774610
+mitotic cytokinesis checkpoint                GO:0000000	-
+mitotic spindle assembly checkpoint           GO:0000000	-
+mitotic spindle midzone assembly              GO:0000000	PMID: 16103226
+mitotic spindle midzone assembly              GO:0000000	PMID: 19774610
+mitotic spindle organization                  GO:0000000	PMID: 21873635
+negative regulation of B cell apoptotic ...   GO:0000000	PMID: 20959462
+negative regulation of cytokinesis            GO:0000000	-
+negative regulation of protein binding        GO:0000000	PMID: 21820309
+negative regulation of transcription by ...   GO:0000000	PMID: 20959462
+positive regulation of cytokinesis            GO:0000000	PMID: 16103226
+positive regulation of cytokinesis            GO:0000000	PMID: 19774610
+positive regulation of telomerase activi...   GO:0000000	PMID: 21531765
+positive regulation of telomere capping       GO:0000000	PMID: 21531765
+positive regulation of telomere maintena...   GO:0000000	PMID: 21531765
+protein autophosphorylation                   GO:0000000	PMID: 19774610
+protein localization to kinetochore           GO:0000000	PMID: 19468067
+protein phosphorylation                       GO:0000000	PMID: 21820309,22724069
+regulation of chromosome segregation          GO:0000000	PMID: 19774610
+regulation of cytokinesis                     GO:0000000	PMID: 21873635
+regulation of signal transduction by p53...   GO:0000000	-
+spindle organization                          GO:0000000	PMID: 21820309
+
+Component				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+chromocenter                                  GO:0000000	-
+chromosome passenger complex                  GO:0000000	PMID: 21873635
+chromosome passenger complex                  GO:0000000	PMID: 15260989,18591255
+chromosome passenger complex                  GO:0000000	PMID: 19774610
+condensed chromosome, centromeric region      GO:0000000	PMID: 19465021
+condensed nuclear chromosome, centromeri...   GO:0000000	PMID: 21873635
+condensed nuclear chromosome, centromeri...   GO:0000000	PMID: 18195732
+cytosol                                       GO:0000000	-
+kinetochore                                   GO:0000000	PMID: 22024163
+midbody                                       GO:0000000	PMID: 17726514
+midbody                                       GO:0000000	PMID: 19774610
+mitotic spindle midzone                       GO:0000000	-
+nucleoplasm                                   GO:0000000	-
+nucleoplasm                                   GO:0000000	-
+nucleus                                       GO:0000000	PMID: 20959462
+spindle                                       GO:0000000	PMID: 19774610
+spindle microtubule                           GO:0000000	PMID: 21873635
+spindle midzone                               GO:0000000	PMID: 21873635
+spindle pole centrosome                       GO:0000000	PMID: 21873635
+
+GENERAL PROTEIN INFORMATION
+-------------------------------------------------------------------------------------------------
+Preferred Names
+	aurora kinase B
+Names
+	aurora kinase B-Sv1
+	aurora kinase B-Sv2
+	aurora- and Ipl1-like midbody-associated protein 1
+	aurora-1
+	aurora-B
+	aurora-related kinase 2
+	aurora/IPL1-related kinase 2
+	protein phosphatase 1, regulatory subunit 48
+	serine/threonine kinase 12
+	serine/threonine-protein kinase 12
+	serine/threonine-protein kinase 5
+	serine/threonine-protein kinase aurora-B
+NP_001243763.1
+	EC 2.7.11.1
+NP_001271455.1
+	EC 2.7.11.1
+NP_001300879.1
+	EC 2.7.11.1
+NP_001300880.1
+	EC 2.7.11.1
+NP_001300881.1
+	EC 2.7.11.1
+NP_001300882.1
+	EC 2.7.11.1
+NP_001300883.1
+	EC 2.7.11.1
+NP_001300884.1
+	EC 2.7.11.1
+NP_004208.2
+	EC 2.7.11.1
+XP_011522374.1
+	EC 2.7.11.1
+XP_016880796.1
+	EC 2.7.11.1
+XP_016880797.1
+	EC 2.7.11.1
+XP_016880798.1
+	EC 2.7.11.1
+XP_016880799.1
+	EC 2.7.11.1
+XP_016880800.1
+	EC 2.7.11.1
+
+NCBI REFERENCE SEQUENCES (RefSeq)
+-------------------------------------------------------------------------------------------------
+
+RefSeqs maintained independently of Annotated Genomes
+
+These reference sequences exist independently of genome builds.
+These reference sequences are curated independently of the genome annotation cycle, 
+so their versions may not match the RefSeq versions in the current genome build. 
+Identify version mismatches by comparing the version of the RefSeq in this section to 
+the one reported in Genomic regions, transcripts, and products section above.
+
+	mRNA and Protein(s) 
+
+	NM_001256834.2 → NP_001243763.1  REVIEWEDaurora kinase B isoform 2
+
+	See proteins identical to NP_001243763.1 at http://130.14.18.104/ipg/NP_001243763.1/
+
+		Description: Transcript Variant: This variant (2) lacks an e...
+	Source sequence(s): AK297976, BC009751, BE514591, BP225027 
+	  Consensus CDS: CCDS58514.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	Related Ensembl: ENSP00000443869.1, OTTHUMP00000259370, ENST00000534871.5, OTTHUMT00000441844
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:36 - 286
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:29 - 298
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001284526.1 → NP_001271455.1  REVIEWEDaurora kinase B isoform 3
+		Description: Transcript Variant: This variant (3) uses an al...
+	Source sequence(s): BC009751, BC013300, BE514591, BP225027 
+	  Consensus CDS: CCDS67162.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	Related Ensembl: ENSP00000313950.6, OTTHUMP00000259369, ENST00000316199.10, OTTHUMT00000441842
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:78 - 328
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:71 - 340
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313950.1 → NP_001300879.1  REVIEWEDaurora kinase B isoform 1
+		Description: Transcript Variant: This variant (4) uses an al...
+	Source sequence(s): BC009751, BE514591, BP225027, CX781462 
+	  Consensus CDS: CCDS11134.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (1)summary
+		cl21453: 
+		Location:70 - 339
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313951.1 → NP_001300880.1  REVIEWEDaurora kinase B isoform 2
+		Description: Transcript Variant: This variant (5) contains a...
+	Source sequence(s): BC009751, BE797606, BP225027 
+	  Consensus CDS: CCDS58514.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:36 - 286
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:29 - 298
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313952.1 → NP_001300881.1  REVIEWEDaurora kinase B isoform 4
+		Description: Transcript Variant: This variant (6) lacks an e...
+	Source sequence(s): BC009751, BE514591, BM905813, BP225027 
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:37 - 287
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:30 - 299
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313953.2 → NP_001300882.1  REVIEWEDaurora kinase B isoform 5
+		Description: Transcript Variant: This variant (7) uses alter...
+	Source sequence(s): AC135178, BC009751, BU153790 
+	  Consensus CDS: CCDS82065.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	Related Ensembl: ENSP00000462207.1, OTTHUMP00000259372, ENST00000578549.5
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:102 - 295
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:70 - 307
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313954.1 → NP_001300883.1  REVIEWEDaurora kinase B isoform 6
+		Description: Transcript Variant: This variant (8) uses an al...
+	Source sequence(s): AF004022, BC009751, BE514591, BP225027, BU181480 
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:27 - 175
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:21 - 187
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_001313955.1 → NP_001300884.1  REVIEWEDaurora kinase B isoform 7
+		Description: Transcript Variant: This variant (9) lacks two ...
+	Source sequence(s): BC009751, BE514591, BI199088, BP225027 
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:10 - 159
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:10 - 171
+		PKc_like; Protein Kinases, catalytic domain
+
+	NM_004217.3 → NP_004208.2  REVIEWEDaurora kinase B isoform 1
+
+	See proteins identical to NP_004208.2 at http://130.14.18.104/ipg/NP_004208.2/
+
+		Description: Transcript Variant: This variant (1) represents...
+	Source sequence(s): AC135178, BC000442, BC009751 
+	  Consensus CDS: CCDS11134.1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	Related Ensembl: ENSP00000463999.1, OTTHUMP00000135331, ENST00000585124.5, OTTHUMT00000226995
+	  Conserved Domains (1)summary
+		cl21453: 
+		Location:70 - 339
+		PKc_like; Protein Kinases, catalytic domain
+
+	RNA
+
+		NR_132730.1 RNA Sequence
+		Description: Transcript Variant: This variant (10) uses an a...
+		Source sequence(s): BC009751, BE514591, BP225027, CN286704 
+
+		NR_132731.1 RNA Sequence
+		Description: Transcript Variant: This variant (11) lacks an ...
+		Source sequence(s): AY677083, BC009751 
+
+RefSeqs of Annotated Genomes: Homo sapiens Annotation Release 109
+The following sections contain reference sequences that belong to a specific genome build. 
+This section includes genomic Reference Sequences (RefSeqs) from all assemblies on which 
+this gene is annotated, such as RefSeqs for chromosomes and scaffolds (contigs) from both 
+reference and alternate assemblies. Model RNAs and proteins are also reported here.
+
+Reference GRCh38.p12 Primary Assembly
+
+	Genomic
+		NC_000017.11
+		Range   	8204730..8210766, complement
+		Download	GenBank FASTA Sequence Viewer (Graphics) 
+
+
+
+	mRNA and Protein(s) 
+
+	XM_017025307.2 → XP_016880796.1 aurora kinase B isoform X1
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:36 - 286
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:29 - 298
+		PKc_like; Protein Kinases, catalytic domain
+
+	XM_017025308.2 → XP_016880797.1 aurora kinase B isoform X2
+
+	XM_011524072.3 → XP_011522374.1 aurora kinase B isoform X1
+
+	See proteins identical to XP_011522374.1 at http://130.14.18.104/ipg/XP_011522374.1/
+
+	  UniProtKB/Swiss-Prot: Q96GD4
+
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:36 - 286
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:29 - 298
+		PKc_like; Protein Kinases, catalytic domain
+
+	XM_017025310.1 → XP_016880799.1 aurora kinase B isoform X3
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:27 - 175
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:21 - 187
+		PKc_like; Protein Kinases, catalytic domain
+
+	XM_017025309.1 → XP_016880798.1 aurora kinase B isoform X3
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:27 - 175
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:21 - 187
+		PKc_like; Protein Kinases, catalytic domain
+
+	XM_017025311.1 → XP_016880800.1 aurora kinase B isoform X3
+	  Conserved Domains (2)summary
+		smart00220: 
+		Location:27 - 175
+		S_TKc; Serine/Threonine protein kinases, catalytic domain
+		cl21453: 
+		Location:21 - 187
+		PKc_like; Protein Kinases, catalytic domain
+
+RELATED SEQUENCES
+-------------------------------------------------------------------------------------------------
+
+Nucleotide			Protein
+-------------------------------------------------------------------------------------------------
+genomic             		AC135178.13(173957..179852)	None
+genomic             		AX934321.1	CAF04021.1
+genomic             		CH471108.2	EAW90073.1
+				EAW90074
+				EAW90075
+				EAW90076
+				EAW90077
+				EAW90078
+				EAW90079
+mRNA                		AB011446.1	BAA82709.1
+mRNA                		AB011450.1	BAA32136.1
+mRNA                		AB519677.1	BAI23190.1
+mRNA                		AB519678.1	BAI23191.1
+mRNA                		AB519679.1	BAI23192.1
+mRNA                		AF004022.1	AAB65786.1
+mRNA                		AF008552.1	AAC12709.1
+mRNA                		AF015254.1	AAC98891.1
+mRNA                		AK297976.1	BAG60286.1
+mRNA                		AK314889.1	BAG37403.1
+mRNA                		AY677083.1	None
+mRNA                		BC000442.2	AAH00442.3
+mRNA                		BC009751.2	AAH09751.1
+mRNA                		BC013300.2	AAH13300.2
+mRNA                		BC080581.1	AAH80581.1
+mRNA                		BE514591.1	None
+mRNA                		BE797606.1	None
+mRNA                		BI199088.1	None
+mRNA                		BM905813.1	None
+mRNA                		BP225027.1	None
+mRNA                		BT019534.1	AAV38341.1
+mRNA                		BU153790.1	None
+mRNA                		BU181480.1	None
+mRNA                		CN286704.1	None
+mRNA                		CX781462.1	None
+
+Protein Accession		Links
+-------------------------------------------------------------------------------------------------
+Q96GD4.3       	GenPept(/protein/317373473)		UniProtKB/Swiss-Prot:Q96GD4
+
+GENE LINKOUT
+-------------------------------------------------------------------------------------------------
+The following LinkOut(www.ncbi.nlm.nih.gov/projects/linkout/index.html) resources
+are supplied by external providers. These providers are responsible for
+maintaining the links.
+
+Chemical Information
+  (Free resource) (free) Interologous Interaction Database
+	Interologous Interaction Database
+  (Order form) MilliporeSigma
+	Aurkb productsAurkb products
+  (Order form) Novus Biologicals
+	Antibody PairsAntibody PairsRNAiRNAiLysatesLysates
+
+Medical
+  (Free resource) (free) Breast Cancer Now TissueBank Bioinformatics Portal
+	Breast Cancer Now TissueBank Bioinformatics Portal
+
+Molecular Biology Databases
+  (Free resource) (free) BioGPS
+	BioGPS
+  (Free resource) (free) CREB Target Gene Database
+	CREB Target Gene Database
+  (Free resource) (free) Domain Mapping of Disease Mutations
+	AURKBAURKB
+  (Free resource) (free) Eukaryotic Promoter Database
+	AURKB_1AURKB_1
+  (Order form) GenScript latest version of gene cDNA ORF Clone
+	GenScript latest version of gene cDNA ORF Clone
+  (Free resource) (free) GeneNetwork
+	Records for gene expression in HumanRecords for gene expression in Human
+  (Free resource) (free) Genevisible
+	AURKBAURKB
+  (Free resource) (free) Guide to Pharmacology
+	aurora kinase B geneaurora kinase B gene
+  (Free resource) (free) Human eFP Browser
+	Human eFP BrowserHuman eFP BrowserHuman eFP Browser
+  Ingenuity Pathways Analysis
+	Ingenuity Pathways Analysis
+  (Free resource) (free) InnateDB
+	InnateDBInnateDB
+  (Free resource) (free) InterMine
+	InterMine
+  (Free resource) (free) Kyoto Encyclopedia of Genes and Genomes
+	Kyoto Encyclopedia of Genes and Genomes
+  (Free resource) (free) Nuclear Receptor Signaling Atlas (NURSA)
+	Transcriptomine: regulation of the AURKB gene by nuclear receptor signaling pathwaysTranscriptomine: regulation of the AURKB gene by nuclear receptor signaling pathways
+  (Free resource) (free) OMA Browser: Orthologous MAtrix
+	OMA Browser: Orthologous MAtrix
+  (Free resource) (free) OrthoDB: The Hierarchical Catalog of Orthologs
+	The Hierarchical Catalog of OrthologsThe Hierarchical Catalog of Orthologs
+  (Free resource) (free) PhosphoSitePlus
+	PhosphoSitePlus® - comprehensive post-translational modification resourcePhosphoSitePlus® - comprehensive post-translational modification resource
+  (Free resource) (free) Protein Ontology Consortium
+	Protein Ontology Consortium
+  (Free resource) (Order form) (free) SeekQuence Research Antibodies
+	SeekQuence Research Antibodies
+  (Free resource) (free) The Gene Wiki
+	The Gene Wiki
+  (Free resource) (free) The Weizmann Institute of Science GeneCards and MalaCards databases
+	GeneCard for AURKBGeneCard for AURKB
+  (Free resource) (free) Vertebrate Genome Annotation (VEGA) database
+	Vertebrate Genome Annotation (VEGA) database
+  (Free resource) (free) iRefWeb - iRefIndex release 9.0 - Consolidated Interactome
+	iRefWeb - iRefIndex release 9.0 - Consolidated Interactome
+
+Research Materials
+  (Order form) Addgene Non-profit plasmid repository
+	Get Plasmids - AddgeneGet Plasmids - Addgene
+  ExactAntigen/Labome
+	reagent reviewreagent reviewreagentsreagents
+  (Order form) GeneCopoeia Inc.
+	Order TALEN/CRISPR clonesOrder TALEN/CRISPR clonesOrder shRNA clonesOrder shRNA clonesOrder promoter cloneOrder promoter clone
+  (Order form) Kazusa DNA Research Institute
+	Kazusa DNA Research Institute
+  LifeSpan BioSciences, Inc.
+	LSBio AURKB / Aurora-B Elisa KitsLSBio AURKB / Aurora-B Elisa KitsLSBio AURKB / Aurora-B ProteinsLSBio AURKB / Aurora-B ProteinsLSBio AURKB / Aurora-B AntibodiesLSBio AURKB / Aurora-B Antibodies
+  (Order form) NITE Biological Resource Center
+	Human cDNA clones used in NEDO Project / AK297976Human cDNA clones used in NEDO Project / AK297976Human cDNA clones used in NEDO Project / AK314889Human cDNA clones used in NEDO Project / AK314889
+  (Order form) PlasmID Repository at Harvard Medical School
+	Order full-length cDNA cloneOrder full-length cDNA clone
+  (Order form) Sino Biological Inc.
+	Human AURKB Gene cDNA Clone (full-length ORF Clone)Human AURKB Gene cDNA Clone (full-length ORF Clone)
+  (Order form) antibodies-online
+	View related products from antibodies-online.comView related products from antibodies-online.com
+
+Tools
+  (Free resource) (free) GeneMANIA
+	GeneMANIA
