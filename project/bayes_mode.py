@@ -1,4 +1,6 @@
 from math import log
+
+
 #计算先验概率
 def cal_priorProbability(donors) :
 
@@ -23,7 +25,6 @@ def cal_priorProbability(donors) :
     for i in range(len(priors)):
         for j in range(4):
             priors[i][j] = count[i][j]/len(donors)
-
 
     return priors
 
@@ -86,9 +87,6 @@ def cal_jointProbability(donors):
                 count[j][15] += 1
 
 
-    #print(len(donors))
-    #print(count)
-
     for i in range(len(joints)):
         for j in range(16):
             joints[i][j] = count[i][j]/(len(donors)+16)
@@ -97,7 +95,7 @@ def cal_jointProbability(donors):
 
 
 #计算条件概率
-# Pi(A,C) 第i-1位是C，第i位为A的概率
+## Pi(A,C) 第i-1位是C，第i位为A的概率
 def cal_conditionalProbability(priors, joints):
 
     conditionals = joints
@@ -108,36 +106,16 @@ def cal_conditionalProbability(priors, joints):
     return conditionals
 
 
+#利用WAM模型，计算S(x)的值
 def cal_WAM(seq, priorA, priorB, conditionalsA, conditionalsB):
     seq = seq.replace('a','0')
     seq = seq.replace('c','1')
     seq = seq.replace('g','2')
     seq = seq.replace('t','3')
-    #seq = seq.replace('A','0')
-    #seq = seq.replace('C','1')
-    #seq = seq.replace('G','2')
-    #seq = seq.replace('T','3')
 
     S = log(priorA[int(seq[0])]) - log(priorB[int(seq[0])])
     for i in range(8):
         temp = log(conditionalsA[i][int(seq[i])*4+int(seq[i+1])]) - log(conditionalsB[i][int(seq[i])*4+int(seq[i+1])])
-        S += temp
-
-    return S
-
-def cal_WAM2(seq, priorA, priorB, jointsA, jointsB):
-    seq = seq.replace('a','0')
-    seq = seq.replace('c','1')
-    seq = seq.replace('g','2')
-    seq = seq.replace('t','3')
-    #seq = seq.replace('A','0')
-    #seq = seq.replace('C','1')
-    #seq = seq.replace('G','2')
-    #seq = seq.replace('T','3')
-
-    S = log(priorA[int(seq[0])]) - log(priorB[int(seq[0])])
-    for i in range(8):
-        temp = log(jointsA[i][int(seq[i])*4+int(seq[i+1])]) - log(jointsB[i][int(seq[i])*4+int(seq[i+1])])
         S += temp
 
     return S

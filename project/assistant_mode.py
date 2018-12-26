@@ -2,6 +2,7 @@ import os
 import re
 import random
 
+#导入文件夹下所有文件，并初步解析文件
 def load_allfile(path) :
 
     files= os.listdir(path) #得到文件夹下的所有文件名称的列表
@@ -32,6 +33,7 @@ def load_allfile(path) :
     print('load files successful!')
     return DNA_lens, CDSjoins, seqs_DNA, seqs_name
 
+
 #处理CDSjoin信息，从而得到donor的位置
 def process_CDSjoin(CDSjoins) :
 
@@ -54,6 +56,7 @@ def process_CDSjoin(CDSjoins) :
          count += 1
      return donor_locations, acceptor_locations
 
+
 #根据donor的位置和序列，从而提取donor片段
 def get_donor(seqs_DNA, donor_locations) :
 
@@ -73,21 +76,13 @@ def save_donors(donors, filename) :
 
     f = open(filename,'w+')
     for donor in donors:
-        donor = donor.lower()
+        donor = donor.lower()#存入文件时，把所有字符都规范成小写
         f.write(donor + '\n')
     f.close()
     print('save donors successful!')
 
 
-def save_P(Ps, filename) :
-    f = open(filename,'w+')
-    for P1 in Ps:
-        for P2 in P1:
-            f.write(str(P2)+'\n')
-        f.write('************'+'\n')
-    f.close()
-
-
+#读取donor片段
 def read_donors(filename) :
     donors = []
     f = open(filename)
@@ -159,6 +154,8 @@ def create_phonyDonor(seqs_DNA, donor_locations, acceptor_locations) :
     print('create phonyDonors successful!')
     return phonyDonors
 
+
+#把字符转换成数字，并添加标签
 def process_donors(donors,str):
     labels = []
     newdonors = []
@@ -168,10 +165,6 @@ def process_donors(donors,str):
         seq = seq.replace('c','1')
         seq = seq.replace('g','2')
         seq = seq.replace('t','3')
-        #seq = seq.replace('A','0')
-        #seq = seq.replace('C','1')
-        #seq = seq.replace('G','2')
-        #seq = seq.replace('T','3')
 
         for i in range(len(seq)):
             temp.append(int(seq[i]))
